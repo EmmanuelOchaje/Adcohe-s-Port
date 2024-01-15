@@ -184,6 +184,7 @@ span {
 }
 .portfolio {
   background: var(--second-bg-color);
+  height: 50vh;
 }
 .portfolio h2 {
   margin-bottom: 4rem;
