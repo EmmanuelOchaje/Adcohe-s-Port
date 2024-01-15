@@ -182,7 +182,7 @@ span {
   font-size: 1.5rem;
   margin: 1rem 0 3rem;
 }
-section .portfolio {
+.portfolio {
   background: var(--second-bg-color);
   min-height: 50vh;
 }
